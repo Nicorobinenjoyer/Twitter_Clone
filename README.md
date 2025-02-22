@@ -32,7 +32,7 @@ Este proyecto es un clon de la popular red social Twitter, desarrollado con **No
    - Dirígete al repositorio de GitHub del proyecto y selecciona la opción de descargar el archivo comprimido, ubicado dandole click al boton verde que dice "Code"
    - Alternativamente, clona el repositorio utilizando Git con el siguiente comando:
      ```bash
-     git clone https://github.com/tu_usuario/tu_proyecto.git
+     git clone https://github.com/Nicorobinenjoyer/Twitter_Clone.git
      ```
 
 3. **Descomprimir el archivo descargado**
@@ -45,21 +45,21 @@ Este proyecto es un clon de la popular red social Twitter, desarrollado con **No
    - **_Opcion 1:_** Abre la terminal y navega hasta la carpeta donde descomprimiste el proyecto en la carpeta `Descargas`:
 
      ```bash
-     cd Descargas\tu_proyecto
+     cd Descargas\Twitter_Clone-master
      ```
 
      ```bash
-     cd Downloads\tu_proyecto
+     cd Downloads\Twitter_Clone-master
      ```
 
    - **_Opcion 2:_** Abre la terminal y navega hasta la carpeta donde descomprimiste el proyecto en la carpeta `Escritorio`:
 
      ```bash
-     cd Escritorio\tu_proyecto
+     cd Escritorio\Twitter_Clone-master
      ```
 
      ```bash
-     cd Desktop\tu_proyecto
+     cd Desktop\Twitter_Clone-master
      ```
 
 5. **Construir y levantar los contenedores con Docker**
